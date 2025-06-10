@@ -129,5 +129,5 @@ Este projeto está licenciado sob a MIT License.
 
 ### ✨ Autora
 Desenvolvido por **Danielle Nery** 🚀  
-📸 Instagram: [@daniellynerya](https://instagram.com/daniellynerya](https://www.instagram.com/daniellynerya?igsh=MTN1aXdrdGwxOWwxbg==)  
+📸 Instagram: [@daniellynerya](https://instagram.com/daniellynerya](https://www.instagram.com/daniellynerya?igsh=MTN1aXdrdGwxOWwxbg==))
 📧 E-mail: daniellynerya@gmail.com
