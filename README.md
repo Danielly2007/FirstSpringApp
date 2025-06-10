@@ -31,22 +31,39 @@ Ele inclui:
 
 first-spring-app/
 │
+
 ├── src/
+
 │ ├── main/
+
 │ │ ├── java/
+
 │ │ │ └── com.recupera.first_spring_app/
+
 │ │ │ ├── configuration/ # Beans e configurações gerais
+
 │ │ │ ├── controller/ # Controllers REST
+
 │ │ │ ├── domain/ # Modelos de dados / Entidades
+
 │ │ │ └── services/ # Lógica de negócio
+
 │ │ └── resources/
+
 │ │ ├── static/ # Arquivos estáticos
+
 │ │ ├── templates/ # Templates HTML (caso use Thymeleaf)
+
 │ │ └── application.properties # Configurações da aplicação
+
 │
+
 ├── test/ # Testes unitários
+
 ├── mvnw, mvnw.cmd # Wrappers Maven
+
 ├── pom.xml # Gerenciador de dependências Maven
+
 └── README.md # Este arquivo
 
 ---
@@ -112,5 +129,5 @@ Este projeto está licenciado sob a MIT License.
 
 ### ✨ Autora
 Desenvolvido por **Danielle Nery** 🚀  
-📸 Instagram: [@daniellynerya]([https://instagram.com/daniellynerya](https://www.instagram.com/daniellynerya?igsh=MTN1aXdrdGwxOWwxbg==))  
+📸 Instagram: [@daniellynerya](https://instagram.com/daniellynerya](https://www.instagram.com/daniellynerya?igsh=MTN1aXdrdGwxOWwxbg==)  
 📧 E-mail: daniellynerya@gmail.com
